@@ -31,8 +31,8 @@ import { NavigationOptions, EmulateOptions } from 'puppeteer';
     if (discographyContent === null) return
     return Array.from(discographyContent.children)
       .filter(d => (<HTMLHeadingElement>d.children[0]) !== undefined)
-      .filter(d => (<HTMLHeadingElement>d.children[0]).innerText.indexOf('THE IDOLM@STER CINDERELLA GIRLS'))
-      .map(d => (<HTMLHeadingElement>d.children[0]).innerText)
+      .filter(d => (<HTMLHeadingElement>d.children[0]).innerText.indexOf('THE IDOLM@STER CINDERELLA GIRLS') === 0)
+      .map(d => (<HTMLHeadingElement>d.children[0]).innerText) // DOM要素をreturn するともれなく死ぬ模様 当たり前か
   })
   console.log(一覧dom)
   // const res = await Axios.get(images[10], { responseType: 'arraybuffer' })
