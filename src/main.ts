@@ -1,4 +1,6 @@
 import * as puppeteer from 'puppeteer';
+import * as fs from 'fs'
+import Axios from 'axios'
 import { NavigationOptions, EmulateOptions } from 'puppeteer';
 
 (async () => {
@@ -19,12 +21,12 @@ import { NavigationOptions, EmulateOptions } from 'puppeteer';
   const test_url = 'https://www.google.co.jp/'
   const imas_url = 'http://columbia.jp/idolmaster/'
   await page.goto(imas_url, goto_option)
-  const images: String[] = await page.evaluate(() => {
+  const images: string[] = await page.evaluate(() => {
     const imageList = document.querySelectorAll('img');
-    console.log('asijdaisojdaisopjij')
     return Array.from(imageList).map(d => d.src);
   })
-
+  const res = await Axios.get(images[10], { responseType: 'arraybuffer' })
+  fs.writeFileSync('./hoge.png', new Buffer(res.data), 'binary')
   await browser.close();
 })();
 
