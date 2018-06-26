@@ -25,8 +25,18 @@ import { NavigationOptions, EmulateOptions } from 'puppeteer';
     const imageList = document.querySelectorAll('img');
     return Array.from(imageList).map(d => d.src);
   })
-  const res = await Axios.get(images[10], { responseType: 'arraybuffer' })
-  fs.writeFileSync('./hoge.png', new Buffer(res.data), 'binary')
-  await browser.close();
+  const 一覧dom = await page.evaluate(d => {
+    const discographyContent = document.querySelector('#discographyContent')
+    console.log(discographyContent)
+    if (discographyContent === null) return
+    return Array.from(discographyContent.children)
+      .filter(d => (<HTMLHeadingElement>d.children[0]) !== undefined)
+      .filter(d => (<HTMLHeadingElement>d.children[0]).innerText.indexOf('THE IDOLM@STER CINDERELLA GIRLS'))
+      .map(d => (<HTMLHeadingElement>d.children[0]).innerText)
+  })
+  console.log(一覧dom)
+  // const res = await Axios.get(images[10], { responseType: 'arraybuffer' })
+  // fs.writeFileSync('./hoge.png', new Buffer(res.data), 'binary')
+  //await browser.close();
 })();
 
