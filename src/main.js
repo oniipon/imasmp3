@@ -1,8 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const puppeteer = require("puppeteer");
-const fs = require("fs");
-const axios_1 = require("axios");
 (async () => {
     const browser = await puppeteer.launch({ headless: false });
     const page = await browser.newPage();
@@ -25,8 +23,17 @@ const axios_1 = require("axios");
         const imageList = document.querySelectorAll('img');
         return Array.from(imageList).map(d => d.src);
     });
-    const res = await axios_1.default.get(images[10], { responseType: 'arraybuffer' });
-    fs.writeFileSync('./hoge.png', new Buffer(res.data), 'binary');
-    await browser.close();
+    await page.evaluate(d => {
+        const discographyContent = document.querySelector('#discographyContent');
+        console.log(discographyContent);
+        if (discographyContent === null)
+            return;
+        const 一覧dom = Array.from(discographyContent.children)
+            .filter(d => d.children[0] !== undefined)
+            .filter(d => d.children[0].innerText.indexOf('THE IDOLM@STER CINDERELLA') === 0);
+    });
+    // const res = await Axios.get(images[10], { responseType: 'arraybuffer' })
+    // fs.writeFileSync('./hoge.png', new Buffer(res.data), 'binary')
+    //await browser.close();
 })();
 //# sourceMappingURL=main.js.map
