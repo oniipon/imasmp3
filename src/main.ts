@@ -76,24 +76,32 @@ function getSiblingElemetsIndex(el: Element, name: string) {
 
 async function getImgUrl(url: string, page: puppeteer.Page): Promise<Jacket[]> {
   await page.goto(url);
-  return await page.evaluate((url: string , getHoge: ()=> string) => {
-    const cinderellas = document.querySelectorAll('.cinderella');
-    if (!cinderellas) {
-      return {
-        origin_url:url
+  return await page.evaluate(
+    (url: string, getHoge: () => string) => {
+      const cinderellas = document.querySelectorAll('.cinderella');
+      const cinderella = document.querySelector('#cinderella');
+      if (cinderellas.length !== 0) {
+        return Array.from(cinderellas).map(element => {
+          return {
+            origin_url: url,
+            name: document.querySelector('#cinderella')
+              ? (element.children[0].children[0] as HTMLTableSectionElement).innerText
+              : (element.children[0].children[1] as HTMLTableSectionElement).innerText,
+            url: (element.children[1].children[0] as HTMLImageElement).src
+          };
+        });
+      } else if (cinderella) {
+        const img: HTMLImageElement = document.querySelector('#container > div.movieJ > img');
+        return {
+          origin_url: url,
+          name: (cinderella.children[0].children[1] as HTMLTableSectionElement).innerText,
+          url: img ? img.src :  (cinderella.children[1].children[0] as HTMLImageElement).src
+        };
       }
-    }
-    console.log(getHoge());
-    return Array.from(cinderellas).map(element => {
-      return {
-        origin_url: url,
-        name: document.querySelector('#cinderella')
-          ? (element.children[0].children[0] as HTMLTableSectionElement).innerText
-          : (element.children[0].children[1] as HTMLTableSectionElement).innerText,
-        url: (element.children[1].children[0] as HTMLImageElement).src
-      };
-    });
-  }, url , getHoge);
+    },
+    url,
+    getHoge
+  );
 }
 
 function getHoge() {

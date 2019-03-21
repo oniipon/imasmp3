@@ -69,21 +69,26 @@ async function getImgUrl(url, page) {
     await page.goto(url);
     return await page.evaluate((url, getHoge) => {
         const cinderellas = document.querySelectorAll('.cinderella');
-        if (!cinderellas) {
-            return {
-                origin_url: url
-            };
+        const cinderella = document.querySelector('#cinderella');
+        if (cinderellas.length !== 0) {
+            return Array.from(cinderellas).map(element => {
+                return {
+                    origin_url: url,
+                    name: document.querySelector('#cinderella')
+                        ? element.children[0].children[0].innerText
+                        : element.children[0].children[1].innerText,
+                    url: element.children[1].children[0].src
+                };
+            });
         }
-        console.log(getHoge());
-        return Array.from(cinderellas).map(element => {
+        else if (cinderella) {
+            const img = document.querySelector('#container > div.movieJ > img');
             return {
                 origin_url: url,
-                name: document.querySelector('#cinderella')
-                    ? element.children[0].children[0].innerText
-                    : element.children[0].children[1].innerText,
-                url: element.children[1].children[0].src
+                name: cinderella.children[0].children[1].innerText,
+                url: img ? img.src : cinderella.children[1].children[0].src
             };
-        });
+        }
     }, url, getHoge);
 }
 function getHoge() {
