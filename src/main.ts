@@ -76,8 +76,14 @@ function getSiblingElemetsIndex(el: Element, name: string) {
 
 async function getImgUrl(url: string, page: puppeteer.Page): Promise<Jacket[]> {
   await page.goto(url);
-  return await page.evaluate((url: string) => {
+  return await page.evaluate((url: string , getHoge: ()=> string) => {
     const cinderellas = document.querySelectorAll('.cinderella');
+    if (!cinderellas) {
+      return {
+        origin_url:url
+      }
+    }
+    console.log(getHoge());
     return Array.from(cinderellas).map(element => {
       return {
         origin_url: url,
@@ -87,7 +93,10 @@ async function getImgUrl(url: string, page: puppeteer.Page): Promise<Jacket[]> {
         url: (element.children[1].children[0] as HTMLImageElement).src
       };
     });
-  }, url);
+  }, url , getHoge);
 }
 
+function getHoge() {
+  return 'hoge';
+}
 async function getImgUrlByCinderellaMasterSolo() {}

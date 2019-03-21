@@ -44,7 +44,6 @@ function getSiblingElemetsIndex(el, name) {
     });
     const hoge = await page.evaluate(() => {
         const discographyContent = document.querySelector('#discographyContent');
-        console.log(discographyContent);
         if (discographyContent === null)
             return;
         const 一覧dom = Array.from(discographyContent.children).filter(d => d.children[0] !== undefined &&
@@ -68,9 +67,14 @@ function getSiblingElemetsIndex(el, name) {
 })();
 async function getImgUrl(url, page) {
     await page.goto(url);
-    console.log(url);
-    return await page.evaluate((url) => {
+    return await page.evaluate((url, getHoge) => {
         const cinderellas = document.querySelectorAll('.cinderella');
+        if (!cinderellas) {
+            return {
+                origin_url: url
+            };
+        }
+        console.log(getHoge());
         return Array.from(cinderellas).map(element => {
             return {
                 origin_url: url,
@@ -80,7 +84,10 @@ async function getImgUrl(url, page) {
                 url: element.children[1].children[0].src
             };
         });
-    }, url);
+    }, url, getHoge);
+}
+function getHoge() {
+    return 'hoge';
 }
 async function getImgUrlByCinderellaMasterSolo() { }
 //# sourceMappingURL=main.js.map
