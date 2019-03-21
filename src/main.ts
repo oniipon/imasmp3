@@ -4,41 +4,6 @@ import Axios from 'axios';
 import { NavigationOptions, EmulateOptions } from 'puppeteer';
 
 /**
- * 指定された要素を示すセレクターを取得します。
- *
- * @see http://stackoverflow.com/questions/3620116/get-css-path-from-dom-element
- *
- * @param {Element} el 要素。
- *
- * @return {Array} セレクター名コレクション。
- */
-export function getSelectorFromElement(el: Element) {
-  var names = [];
-  if (!(el instanceof Element)) {
-    return names;
-  }
-  while (el.nodeType === Node.ELEMENT_NODE) {
-    var name = el.nodeName.toLowerCase();
-    if (el.id) {
-      // id はページ内で一意となるため、これ以上の検索は不要
-      name += '#' + el.id;
-      names.unshift(name);
-      break;
-    }
-    // 同じ階層に同名要素が複数ある場合は識別のためインデックスを付与する
-    // 複数要素の先頭 ( index = 1 ) の場合、インデックスは省略可能
-    //
-    var index = getSiblingElemetsIndex(el, name);
-    if (1 < index) {
-      name += ':nth-of-type(' + index + ')';
-    }
-    names.unshift(name);
-    (el as any) = el.parentNode;
-  }
-  return names;
-}
-
-/**
  * 指定された要素と同一階層、同名の要素コレクション内におけるインデックスを取得します。
  *
  * @param {Element} el   要素。
@@ -46,7 +11,7 @@ export function getSelectorFromElement(el: Element) {
  *
  * @return {Number} インデックス。範囲は 1 〜 N となります。
  */
-export function getSiblingElemetsIndex(el: Element, name: string) {
+function getSiblingElemetsIndex(el: Element, name: string) {
   var index = 1;
   var sib = el;
 
@@ -84,7 +49,6 @@ export function getSiblingElemetsIndex(el: Element, name: string) {
   const hoge: string[] = await page.evaluate(
     (): string[] => {
       const discographyContent = document.querySelector('#discographyContent');
-      console.log(discographyContent);
       if (discographyContent === null) return;
       const 一覧dom: HTMLDivElement[] = Array.from(discographyContent.children).filter(
         d =>
@@ -112,20 +76,18 @@ export function getSiblingElemetsIndex(el: Element, name: string) {
 
 async function getImgUrl(url: string, page: puppeteer.Page): Promise<Jacket[]> {
   await page.goto(url);
-  return await page.evaluate(() => {
+  return await page.evaluate((url: string) => {
     const cinderellas = document.querySelectorAll('.cinderella');
     return Array.from(cinderellas).map(element => {
-      // console.log(url);
       return {
-        // origin_url: url,
+        origin_url: url,
         name: document.querySelector('#cinderella')
           ? (element.children[0].children[0] as HTMLTableSectionElement).innerText
           : (element.children[0].children[1] as HTMLTableSectionElement).innerText,
-        url: (element.children[1].children[0] as HTMLImageElement).src,
-        selector: getSelectorFromElement(element.children[0].children[0])
+        url: (element.children[1].children[0] as HTMLImageElement).src
       };
     });
-  });
+  }, url);
 }
 
 async function getImgUrlByCinderellaMasterSolo() {}

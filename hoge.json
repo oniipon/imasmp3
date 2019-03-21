@@ -1,76 +1,280 @@
 [
   [
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 001\n渋谷凛", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16575.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 002\n双葉杏", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16576.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 003\n三村かな子", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16577.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 004\n高垣楓", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16578.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 005\n城ヶ崎莉嘉", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16579.jpg" }
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16575.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 001\n渋谷凛",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16575.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16575.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 002\n双葉杏",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16576.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16575.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 003\n三村かな子",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16577.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16575.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 004\n高垣楓",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16578.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16575.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 005\n城ヶ崎莉嘉",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16579.jpg"
+    }
   ],
   [
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 006\n神崎蘭子", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16628.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 007\n前川みく", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16629.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 008\n諸星きらり", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16630.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 009\n城ヶ崎美嘉", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16631.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 010\n島村卯月", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16632.jpg" }
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16628.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 006\n神崎蘭子",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16628.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16628.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 007\n前川みく",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16629.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16628.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 008\n諸星きらり",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16630.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16628.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 009\n城ヶ崎美嘉",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16631.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16628.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 010\n島村卯月",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16632.jpg"
+    }
   ],
   [
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 011\n小日向美穂", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16683.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 012\n多田李衣菜", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16684.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 013\n十時愛梨", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16685.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 014\n川島瑞樹", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16686.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 015\n本田未央", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16687.jpg" }
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16683.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 011\n小日向美穂",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16683.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16683.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 012\n多田李衣菜",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16684.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16683.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 013\n十時愛梨",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16685.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16683.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 014\n川島瑞樹",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16686.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16683.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 015\n本田未央",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16687.jpg"
+    }
   ],
   [
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 016\n日野茜", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16734.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 017\n赤城みりあ", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16735.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 018\n安部菜々", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16736.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 019\n新田美波", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16737.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 020\n輿水幸子", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16738.jpg" }
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16734.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 016\n日野茜",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16734.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16734.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 017\n赤城みりあ",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16735.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16734.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 018\n安部菜々",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16736.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16734.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 019\n新田美波",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16737.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16734.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 020\n輿水幸子",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16738.jpg"
+    }
   ],
   [
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 021\n佐久間まゆ", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16778.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 022\n白坂小梅", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16779.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 023\n緒方智絵里", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16780.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 024\nアナスタシア", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16781.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 025\n高森藍子", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16782.jpg" }
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16778.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 021\n佐久間まゆ",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16778.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16778.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 022\n白坂小梅",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16779.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16778.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 023\n緒方智絵里",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16780.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16778.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 024\nアナスタシア",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16781.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16778.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 025\n高森藍子",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16782.jpg"
+    }
   ],
   [
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 026\n星輝子", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16877.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 027\n神谷奈緒", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16878.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 028\n北条加蓮", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16879.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 029\n小早川紗枝", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16880.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 030\n堀裕子", "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16881.jpg" }
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16877.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 026\n星輝子",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16877.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16877.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 027\n神谷奈緒",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16878.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16877.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 028\n北条加蓮",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16879.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16877.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 029\n小早川紗枝",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16880.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16877.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 030\n堀裕子",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16881.jpg"
+    }
   ],
   [
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 031\n鷺沢文香", "url": "https://columbia.jp/idolmaster/img/COCC-17001.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 032\n姫川友紀", "url": "https://columbia.jp/idolmaster/img/COCC-17002.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 033\n宮本フレデリカ", "url": "https://columbia.jp/idolmaster/img/COCC-17003.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 034\n速水奏", "url": "https://columbia.jp/idolmaster/img/COCC-17004.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 035\n市原仁奈", "url": "https://columbia.jp/idolmaster/img/COCC-17005.jpg" }
+    {
+      "origin_url": "https://columbia.jp/idolmaster/COCC-17001.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 031\n鷺沢文香",
+      "url": "https://columbia.jp/idolmaster/img/COCC-17001.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/COCC-17001.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 032\n姫川友紀",
+      "url": "https://columbia.jp/idolmaster/img/COCC-17002.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/COCC-17001.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 033\n宮本フレデリカ",
+      "url": "https://columbia.jp/idolmaster/img/COCC-17003.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/COCC-17001.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 034\n速水奏",
+      "url": "https://columbia.jp/idolmaster/img/COCC-17004.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/COCC-17001.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 035\n市原仁奈",
+      "url": "https://columbia.jp/idolmaster/img/COCC-17005.jpg"
+    }
   ],
   [
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 036\n橘ありす", "url": "https://columbia.jp/idolmaster/img/COCC-17091.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 037\n片桐早苗", "url": "https://columbia.jp/idolmaster/img/COCC-17092.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 038\n一ノ瀬志希", "url": "https://columbia.jp/idolmaster/img/COCC-17093.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 039\n塩見周子", "url": "https://columbia.jp/idolmaster/img/COCC-17094.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 040\n櫻井桃華", "url": "https://columbia.jp/idolmaster/img/COCC-17095.jpg" }
+    {
+      "origin_url": "https://columbia.jp/idolmaster/COCC-17091.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 036\n橘ありす",
+      "url": "https://columbia.jp/idolmaster/img/COCC-17091.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/COCC-17091.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 037\n片桐早苗",
+      "url": "https://columbia.jp/idolmaster/img/COCC-17092.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/COCC-17091.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 038\n一ノ瀬志希",
+      "url": "https://columbia.jp/idolmaster/img/COCC-17093.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/COCC-17091.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 039\n塩見周子",
+      "url": "https://columbia.jp/idolmaster/img/COCC-17094.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/COCC-17091.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 040\n櫻井桃華",
+      "url": "https://columbia.jp/idolmaster/img/COCC-17095.jpg"
+    }
   ],
   [
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 041\n大槻唯", "url": "https://columbia.jp/idolmaster/img/COCC-17131.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 042\n中野有香", "url": "https://columbia.jp/idolmaster/img/COCC-17132.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 043\n二宮飛鳥", "url": "https://columbia.jp/idolmaster/img/COCC-17133.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 044\n相葉夕美", "url": "https://columbia.jp/idolmaster/img/COCC-17134.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 045\n五十嵐響子", "url": "https://columbia.jp/idolmaster/img/COCC-17135.jpg" }
+    {
+      "origin_url": "https://columbia.jp/idolmaster/COCC-17131.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 041\n大槻唯",
+      "url": "https://columbia.jp/idolmaster/img/COCC-17131.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/COCC-17131.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 042\n中野有香",
+      "url": "https://columbia.jp/idolmaster/img/COCC-17132.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/COCC-17131.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 043\n二宮飛鳥",
+      "url": "https://columbia.jp/idolmaster/img/COCC-17133.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/COCC-17131.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 044\n相葉夕美",
+      "url": "https://columbia.jp/idolmaster/img/COCC-17134.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/COCC-17131.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 045\n五十嵐響子",
+      "url": "https://columbia.jp/idolmaster/img/COCC-17135.jpg"
+    }
   ],
   [
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 046\n乙倉悠貴", "url": "https://columbia.jp/idolmaster/img/COCC-17286.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 047\n松永涼", "url": "https://columbia.jp/idolmaster/img/COCC-17287.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 048\n依田芳乃", "url": "https://columbia.jp/idolmaster/img/COCC-17288.jpg" }
+    {
+      "origin_url": "https://columbia.jp/idolmaster/COCC-17286.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 046\n乙倉悠貴",
+      "url": "https://columbia.jp/idolmaster/img/COCC-17286.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/COCC-17286.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 047\n松永涼",
+      "url": "https://columbia.jp/idolmaster/img/COCC-17287.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/COCC-17286.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 048\n依田芳乃",
+      "url": "https://columbia.jp/idolmaster/img/COCC-17288.jpg"
+    }
   ],
   [
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 049\n関裕美", "url": "https://columbia.jp/idolmaster/img/COCC-17437.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 050\n三船美優", "url": "https://columbia.jp/idolmaster/img/COCC-17438.jpg" },
-    { "name": "THE IDOLM@STER CINDERELLA MASTER 051\n村上巴", "url": "https://columbia.jp/idolmaster/img/COCC-17439.jpg" }
+    {
+      "origin_url": "https://columbia.jp/idolmaster/COCC-17437.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 049\n関裕美",
+      "url": "https://columbia.jp/idolmaster/img/COCC-17437.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/COCC-17437.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 050\n三船美優",
+      "url": "https://columbia.jp/idolmaster/img/COCC-17438.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/COCC-17437.html",
+      "name": "THE IDOLM@STER CINDERELLA MASTER 051\n村上巴",
+      "url": "https://columbia.jp/idolmaster/img/COCC-17439.jpg"
+    }
   ],
   [],
   [],
@@ -95,12 +299,24 @@
   [],
   [],
   [
-    { "name": "new generations[島村卯月×渋谷凛×本田未央]", "url": "https://columbia.jp/idolmaster/img/COCC-17027.jpg" },
-    { "name": "＊(Asterisk) [前川みく×多田李衣菜]", "url": "https://columbia.jp/idolmaster/img/COCC-17026.jpg" },
-    { "name": "凸レーション[城ヶ崎莉嘉×諸星きらり×赤城みりあ]", "url": "https://columbia.jp/idolmaster/img/COCC-17025.jpg" },
-    { "name": "CANDY ISLAND [双葉杏×三村かな子×緒方智絵里]" },
-    { "name": "Rosenburg Engel[神崎蘭子]" },
-    { "name": "LOVE LAIKA[新田美波×アナスタシア]" }
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella_ap.html",
+      "name": "new generations[島村卯月×渋谷凛×本田未央]",
+      "url": "https://columbia.jp/idolmaster/img/COCC-17027.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella_ap.html",
+      "name": "＊(Asterisk) [前川みく×多田李衣菜]",
+      "url": "https://columbia.jp/idolmaster/img/COCC-17026.jpg"
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella_ap.html",
+      "name": "凸レーション[城ヶ崎莉嘉×諸星きらり×赤城みりあ]",
+      "url": "https://columbia.jp/idolmaster/img/COCC-17025.jpg"
+    },
+    { "origin_url": "https://columbia.jp/idolmaster/cinderella_ap.html", "name": "CANDY ISLAND [双葉杏×三村かな子×緒方智絵里]" },
+    { "origin_url": "https://columbia.jp/idolmaster/cinderella_ap.html", "name": "Rosenburg Engel[神崎蘭子]" },
+    { "origin_url": "https://columbia.jp/idolmaster/cinderella_ap.html", "name": "LOVE LAIKA[新田美波×アナスタシア]" }
   ],
   [],
   [],
