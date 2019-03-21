@@ -71,3 +71,7 @@ typings/
 
 # Serverless directories
 .serverless
+
+src/*.js
+src/*.js.map
+img/
