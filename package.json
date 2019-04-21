@@ -8,6 +8,7 @@
     "@types/node": "^10.3.6",
     "@types/puppeteer": "^1.3.3",
     "axios": "^0.18.0",
+    "music-metadata": "^3.5.4",
     "puppeteer": "^1.5.0",
     "ts-node": "^6.1.2",
     "typescript": "^2.9.1"
@@ -16,7 +17,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "./node_modules/.bin/tsc",
-    "get-img":"./node_modules/.bin/tsc && node src/getImgUrl.js  && node src/getImg.js"
+    "get-img": "./node_modules/.bin/tsc && node src/getImgUrl.js  && node src/getImg.js"
   },
   "keywords": [],
   "author": "",
