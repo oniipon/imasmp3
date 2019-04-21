@@ -1,0 +1,38 @@
+[
+  [
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16575.html",
+      "full_title": "THE IDOLM@STER CINDERELLA MASTER 001\n渋谷凛",
+      "cd_title":"渋谷凛",
+      "series":"THE IDOLM@STER CINDERELLA MASTER 001",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16575.jpg",
+      "artist":{
+        "character":["渋谷凛"],
+        "voice":["福原綾香"]
+      }
+    },
+    {
+      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16575.html",
+      "full_title": "THE IDOLM@STER CINDERELLA MASTER 002\n双葉杏",
+      "cd_title":"双葉杏",
+      "series":"THE IDOLM@STER CINDERELLA MASTER 002",
+      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16576.jpg",
+      "artist":{
+        "character":["双葉杏"],
+        "voice":["五十嵐裕美"]
+      }
+    }
+  ],[
+    {
+      "origin_url": "https://columbia.jp/idolmaster/COCC-17149.html",
+      "full_title": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 09\nラブレター",
+      "cd_title":"ラブレター",
+      "series":"THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 09",
+      "url": "https://columbia.jp/idolmaster/img/COCC-17149.jpg",
+      "artist":{
+        "character":["島村卯月","小日向美穂","五十嵐響子","安部菜々","小早川紗枝"],
+        "voice":["大橋彩香","津田美波","種崎敦美","三宅麻理恵","立花理香"]
+      }
+    }
+  ]
+]
