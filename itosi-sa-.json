@@ -1,0 +1,25 @@
+{
+  "format": {
+    "tagTypes": ["iTunes"],
+    "dataformat": "MPEG-4/MP4A",
+    "sampleRate": 44100,
+    "duration": 227.20725623582766,
+    "lossless": false,
+    "bitrate": 260773.88980263157
+  },
+  "common": {
+    "track": { "no": 1, "of": 8 },
+    "disk": { "no": 1, "of": 1 },
+    "title": "いとしーさー❤",
+    "artists": ["輿水幸子(CV:竹達彩奈)、多田李衣菜(CV:青木瑠璃子)、藤原肇(CV:鈴木みのり)、水本ゆかり(CV:藤田茜)、 森久保乃々(CV:高橋花林)"],
+    "artist": "輿水幸子(CV:竹達彩奈)、多田李衣菜(CV:青木瑠璃子)、藤原肇(CV:鈴木みのり)、水本ゆかり(CV:藤田茜)、 森久保乃々(CV:高橋花林)",
+    "album": "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!　いとしーさー❤",
+    "genre": ["Soundtrack"],
+    "year": 2018,
+    "date": "2018",
+    "compilation": 1,
+    "gapless": false,
+    "bpm": 0,
+    "encodedby": "iTunes 12.7.5.9"
+  }
+}

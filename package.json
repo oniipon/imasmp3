@@ -14,7 +14,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/.bin/tsc",
+    "get-img":"./node_modules/.bin/tsc && node src/getImgUrl.js  && node src/getImg.js"
   },
   "keywords": [],
   "author": "",

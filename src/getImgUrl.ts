@@ -3,7 +3,7 @@ import * as fs from 'fs';
 import { NavigationOptions, EmulateOptions } from 'puppeteer';
 
 (async () => {
-  const browser = await puppeteer.launch({ headless: false });
+  const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
   const b_option: Partial<EmulateOptions> = {
     viewport: {
