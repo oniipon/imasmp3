@@ -388,7 +388,7 @@
     "cd_title": "関裕美",
     "series": "THE IDOLM@STER CINDERELLA MASTER 049",
     "full_title": "THE IDOLM@STER CINDERELLA MASTER 049\n関裕美",
-    "artist": { "character": ["関裕美"], "voice": ["会沢紗弥)"] },
+    "artist": { "character": ["関裕美"], "voice": ["会沢紗弥"] },
     "url": "https://columbia.jp/idolmaster/img/COCC-17437.jpg"
   },
   {
@@ -396,7 +396,7 @@
     "cd_title": "三船美優",
     "series": "THE IDOLM@STER CINDERELLA MASTER 050",
     "full_title": "THE IDOLM@STER CINDERELLA MASTER 050\n三船美優",
-    "artist": { "character": ["三船美優"], "voice": ["原田彩楓)"] },
+    "artist": { "character": ["三船美優"], "voice": ["原田彩楓"] },
     "url": "https://columbia.jp/idolmaster/img/COCC-17438.jpg"
   },
   {
@@ -404,7 +404,7 @@
     "cd_title": "村上巴",
     "series": "THE IDOLM@STER CINDERELLA MASTER 051",
     "full_title": "THE IDOLM@STER CINDERELLA MASTER 051\n村上巴",
-    "artist": { "character": ["村上巴"], "voice": ["花井美春)"] },
+    "artist": { "character": ["村上巴"], "voice": ["花井美春"] },
     "url": "https://columbia.jp/idolmaster/img/COCC-17439.jpg"
   },
   {
@@ -425,17 +425,7 @@
     "full_title": "We’re the friends!",
     "artist": {
       "character": ["渋谷凛", "安部菜々", "緒方智絵里", "島村卯月", "本田未央", "鷺沢文香", "高垣楓", "姫川友紀", "高森藍子"],
-      "voice": [
-        "：福原綾香)",
-        "：三宅麻理恵)",
-        "：大空直美)",
-        "：大橋彩香)",
-        "：原紗友里)",
-        "：M･A･O)",
-        "：早見沙織)",
-        "：杜野まこ)",
-        "：金子有希)"
-      ]
+      "voice": ["：福原綾香", "：三宅麻理恵", "：大空直美", "：大橋彩香", "：原紗友里", "：M･A･O", "：早見沙織", "：杜野まこ", "：金子有希"]
     },
     "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16908.jpg"
   },
@@ -467,7 +457,7 @@
     "full_title": "THE IDOLM@STER CINDERELLA MASTER\nCool jewelries! 001",
     "artist": {
       "character": ["渋谷凛", "高垣楓", "神崎蘭子", "多田李衣菜", "新田美波"],
-      "voice": ["福原綾香)", "早見沙織)", "内田真礼)", "青木瑠璃子", "洲崎綾)"]
+      "voice": ["福原綾香", "早見沙織", "内田真礼", "青木瑠璃子", "洲崎綾"]
     },
     "url": "https://columbia.jp/idolmaster/cinderella/img/COCX-38251.jpg"
   },
@@ -478,7 +468,7 @@
     "full_title": "THE IDOLM@STER CINDERELLA MASTER\nPassion jewelries! 001",
     "artist": {
       "character": ["城ヶ崎莉嘉", "諸星きらり", "城ヶ崎美嘉", "本田未央", "赤城みりあ"],
-      "voice": ["：山本希望)", "：松嵜麗)", "：佳村はるか)", "：原紗友里)", "：黒沢ともよ"]
+      "voice": ["：山本希望", "：松嵜麗", "：佳村はるか", "：原紗友里", "：黒沢ともよ"]
     },
     "url": "https://columbia.jp/idolmaster/cinderella/img/COCX-38252.jpg"
   },
@@ -489,7 +479,7 @@
     "full_title": "THE IDOLM@STER CINDERELLA MASTER\nCute jewelries! 001",
     "artist": {
       "character": ["双葉杏", "前川みく", "島村卯月", "小日向美穂", "安部菜々"],
-      "voice": ["五十嵐裕美)", "高森奈津美)", "大橋彩香)", "津田美波)", "三宅麻理恵)"]
+      "voice": ["五十嵐裕美", "高森奈津美", "大橋彩香", "津田美波", "三宅麻理恵"]
     },
     "url": "https://columbia.jp/idolmaster/cinderella/img/COCX-38253.jpg"
   },
@@ -500,7 +490,7 @@
     "full_title": "THE IDOLM@STER CINDERELLA MASTER\nCool jewelries! 002",
     "artist": {
       "character": ["川島瑞樹", "白坂小梅", "アナスタシア", "神谷奈緒", "北条加蓮"],
-      "voice": ["東山奈央)", "桜咲千依)", "上坂すみれ)", "松井恵理子)", "渕上舞)"]
+      "voice": ["東山奈央", "桜咲千依", "上坂すみれ", "松井恵理子", "渕上舞"]
     },
     "url": "https://columbia.jp/idolmaster/img/jewelries002/COCX-38967.jpg"
   },
@@ -511,7 +501,7 @@
     "full_title": "THE IDOLM@STER CINDERELLA MASTER\nPassion jewelries! 002",
     "artist": {
       "character": ["十時愛梨", "日野茜", "高森藍子", "星輝子", "堀裕子"],
-      "voice": ["原田ひとみ)", "赤﨑千夏)", "金子有希)", "松田颯水)", "鈴木絵理)"]
+      "voice": ["原田ひとみ", "赤﨑千夏", "金子有希", "松田颯水", "鈴木絵理"]
     },
     "url": "https://columbia.jp/idolmaster/img/jewelries002/COCX-38968.jpg"
   },
@@ -522,7 +512,7 @@
     "full_title": "THE IDOLM@STER CINDERELLA MASTER\nCute jewelries! 002",
     "artist": {
       "character": ["三村かな子", "輿水幸子", "佐久間まゆ", "緒方智絵里", "小早川紗枝"],
-      "voice": ["大坪由佳)", "竹達彩奈", "牧野由依)", "大空直美)", "立花理香)"]
+      "voice": ["大坪由佳", "竹達彩奈", "牧野由依", "大空直美", "立花理香"]
     },
     "url": "https://columbia.jp/idolmaster/img/jewelries002/COCX-38969.jpg"
   },
@@ -626,7 +616,7 @@
     "full_title": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 08\nBEYOND THE STARLIGHT",
     "artist": {
       "character": ["城ヶ崎莉嘉", "緒方智絵里", "北条加蓮", "川島瑞樹", "大槻唯", "双葉杏"],
-      "voice": ["山本希望)", "大空直美)", "渕上舞)", "東山奈央)", "山下七海)", "五十嵐裕美)"]
+      "voice": ["山本希望", "大空直美", "渕上舞", "東山奈央", "山下七海", "五十嵐裕美"]
     },
     "url": "https://columbia.jp/idolmaster/img/COCC-17148.jpg"
   },
@@ -637,7 +627,7 @@
     "full_title": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 09\nラブレター",
     "artist": {
       "character": ["島村卯月", "小日向美穂", "五十嵐響子", "安部菜々", "小早川紗枝"],
-      "voice": ["大橋彩香)", "津田美波)", "種崎敦美)", "三宅麻理恵)", "立花理香)"]
+      "voice": ["大橋彩香", "津田美波", "種崎敦美", "三宅麻理恵", "立花理香"]
     },
     "url": "https://columbia.jp/idolmaster/img/COCC-17149.jpg"
   },
@@ -648,7 +638,7 @@
     "full_title": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 16\n∀NSWER",
     "artist": {
       "character": ["早坂美玲", "森久保乃々", "星輝子", "川島瑞樹", "新田美波"],
-      "voice": ["：朝井彩加)", "：高橋花林)", "：松田颯水)", "：東山奈央)", "：洲崎綾)"]
+      "voice": ["：朝井彩加", "：高橋花林", "：松田颯水", "：東山奈央", "：洲崎綾"]
     },
     "url": "https://columbia.jp/idolmaster/img/COCC-17156.jpg"
   },
@@ -659,7 +649,7 @@
     "full_title": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 17\nNothing but You",
     "artist": {
       "character": ["アナスタシア", "神谷奈緒", "中野有香", "前川みく", "星輝子", "日野茜", "一ノ瀬志希"],
-      "voice": ["：上坂すみれ)", "：松井恵理子", "：下地紫野", "：高森奈津美", "：松田颯水", "：赤﨑千夏", "：藍原ことみ"]
+      "voice": ["：上坂すみれ", "：松井恵理子", "：下地紫野", "：高森奈津美", "：松田颯水", "：赤﨑千夏", "：藍原ことみ"]
     },
     "url": "https://columbia.jp/idolmaster/img/COCC-17157.jpg"
   },
@@ -670,7 +660,7 @@
     "full_title": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 18\nモーレツ★世直しギルティ！",
     "artist": {
       "character": ["堀裕子", "片桐早苗", "及川雫", "速水奏"],
-      "voice": ["：鈴木絵理)", "：和氣あず未", "：のぐちゆり", "飯田友子"]
+      "voice": ["：鈴木絵理", "：和氣あず未", "：のぐちゆり", "飯田友子"]
     },
     "url": "https://columbia.jp/idolmaster/img/COCC-17158.jpg"
   },
@@ -681,7 +671,7 @@
     "full_title": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 22\n双翼の独奏歌",
     "artist": {
       "character": ["神崎蘭子", "二宮飛鳥", "輿水幸子", "及川雫", "棟方愛海"],
-      "voice": ["：内田真礼)", "：青木志貴)", "：竹達彩奈)", "：のぐちゆり)", "：藤本彩花)"]
+      "voice": ["：内田真礼", "：青木志貴", "：竹達彩奈", "：のぐちゆり", "：藤本彩花"]
     },
     "url": "https://columbia.jp/idolmaster/img/COCC-17512.jpg"
   },
@@ -692,7 +682,7 @@
     "full_title": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 23\nTwin☆くるっ★テール",
     "artist": {
       "character": ["城ヶ崎美嘉", "城ヶ崎莉嘉", "相葉夕美", "喜多見柚", "村上巴"],
-      "voice": ["：佳村はるか)", "：山本希望)", "：木村珠莉)", "：武田羅梨沙多胡)", "：花井美春)"]
+      "voice": ["：佳村はるか", "：山本希望", "：木村珠莉", "：武田羅梨沙多胡", "：花井美春"]
     },
     "url": "https://columbia.jp/idolmaster/img/COCC-17513.jpg"
   },
@@ -711,7 +701,7 @@
     "full_title": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 26\n美に入り彩を穿つ",
     "artist": {
       "character": ["小早川紗枝", "塩見周子", "神崎蘭子", "関裕美", "森久保乃々"],
-      "voice": ["立花理香)", "ルゥ ティン)", "内田真礼)", "：会沢紗弥)", "：高橋花林)"]
+      "voice": ["立花理香", "ルゥ ティン", "内田真礼", "：会沢紗弥", "：高橋花林"]
     },
     "url": "https://columbia.jp/idolmaster/img/COCC-17516.jpg"
   },
@@ -722,7 +712,7 @@
     "full_title": "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!\nキラッ！満開スマイル",
     "artist": {
       "character": ["島村卯月", "小日向美穂", "佐久間まゆ", "櫻井桃華", "双葉杏"],
-      "voice": ["大橋彩香)", "津田美波)", "牧野由依)", "照井春佳)", "五十嵐裕美)"]
+      "voice": ["大橋彩香", "津田美波", "牧野由依", "照井春佳", "五十嵐裕美"]
     },
     "url": "https://columbia.jp/idolmaster/img/COCC-17311.jpg"
   },
@@ -733,7 +723,7 @@
     "full_title": "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!\nSUN♡FLOWER",
     "artist": {
       "character": ["本田未央", "片桐早苗", "佐藤心", "城ヶ崎美嘉", "諸星きらり"],
-      "voice": ["原紗友里)", "和氣あず未)", "花守ゆみり)", "佳村はるか)", "松嵜麗)"]
+      "voice": ["原紗友里", "和氣あず未", "花守ゆみり", "佳村はるか", "松嵜麗"]
     },
     "url": "https://columbia.jp/idolmaster/img/COCC-17313.jpg"
   },

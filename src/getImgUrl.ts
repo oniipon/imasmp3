@@ -74,6 +74,7 @@ async function getImgUrl(url: string, page: puppeteer.Page): Promise<Album[]> {
                   .replace('(', '（')
                   .split('（CV')[1]
                   .replace('）', '')
+                  .replace(')', '')
                   .replace(':', '');
               })
               .filter(d => d !== '');
@@ -116,6 +117,7 @@ async function getImgUrl(url: string, page: puppeteer.Page): Promise<Album[]> {
               .replace('(', '（')
               .split('（CV')[1]
               .replace('）', '')
+              .replace(')', '')
               .replace(':', '');
           })
           .filter(d => d !== '');
