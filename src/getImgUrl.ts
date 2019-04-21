@@ -1,9 +1,10 @@
 import * as puppeteer from 'puppeteer';
 import * as fs from 'fs';
 import { NavigationOptions, EmulateOptions } from 'puppeteer';
+import {Album} from './Album';
 
 (async () => {
-  const browser = await puppeteer.launch({ headless: true });
+  const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
   const b_option: Partial<EmulateOptions> = {
     viewport: {
@@ -34,16 +35,16 @@ import { NavigationOptions, EmulateOptions } from 'puppeteer';
       return from_array.filter(d => !d.includes('#'));
     }
   );
-  const array: Jacket[][] = [];
+  const array: Album[][] = [];
   for (const url of hoge) {
     array.push(await getImgUrl(url, page));
   }
-  fs.writeFileSync('./hoge.json', JSON.stringify(array));
+  fs.writeFileSync('./Album.json', JSON.stringify(array));
   await browser.close();
   console.log('画像URLの取得に成功しました');
 })();
 
-async function getImgUrl(url: string, page: puppeteer.Page): Promise<Jacket[]> {
+async function getImgUrl(url: string, page: puppeteer.Page): Promise<Album[]> {
   await page.goto(url);
   return await page.evaluate((url: string) => {
     const cinderellas = document.querySelectorAll('.cinderella');

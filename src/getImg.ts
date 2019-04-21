@@ -1,7 +1,7 @@
 import * as fs from 'fs';
 import Axios from 'axios';
-
-const json: Jacket[][] = require('../hoge.json');
+import {Album} from './Album';
+const json: Album[][] = require('../hoge.json');
 if (!fs.existsSync('./img')) {
   fs.mkdirSync('./img');
 }
