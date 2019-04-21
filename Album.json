@@ -1,773 +1,777 @@
 [
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16575.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 001\n渋谷凛",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16575.jpg"
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16575.html",
+    "cd_title": "渋谷凛",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 001",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 001\n渋谷凛",
+    "artist": { "character": ["渋谷凛"], "voice": ["福原綾香"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16575.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16575.html",
+    "cd_title": "双葉杏",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 002",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 002\n双葉杏",
+    "artist": { "character": ["双葉杏"], "voice": ["五十嵐裕美"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16576.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16575.html",
+    "cd_title": "三村かな子",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 003",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 003\n三村かな子",
+    "artist": { "character": ["三村かな子"], "voice": ["大坪由佳"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16577.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16575.html",
+    "cd_title": "高垣楓",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 004",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 004\n高垣楓",
+    "artist": { "character": ["高垣楓"], "voice": ["早見沙織"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16578.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16575.html",
+    "cd_title": "城ヶ崎莉嘉",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 005",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 005\n城ヶ崎莉嘉",
+    "artist": { "character": ["城ヶ崎莉嘉"], "voice": ["山本希望"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16579.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16628.html",
+    "cd_title": "神崎蘭子",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 006",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 006\n神崎蘭子",
+    "artist": { "character": ["神崎蘭子"], "voice": ["：内田真礼"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16628.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16628.html",
+    "cd_title": "前川みく",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 007",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 007\n前川みく",
+    "artist": { "character": ["前川みく"], "voice": ["高森奈津美"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16629.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16628.html",
+    "cd_title": "諸星きらり",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 008",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 008\n諸星きらり",
+    "artist": { "character": ["諸星きらり"], "voice": ["松嵜麗"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16630.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16628.html",
+    "cd_title": "城ヶ崎美嘉",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 009",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 009\n城ヶ崎美嘉",
+    "artist": { "character": ["城ヶ崎美嘉"], "voice": ["佳村はるか"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16631.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16628.html",
+    "cd_title": "島村卯月",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 010",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 010\n島村卯月",
+    "artist": { "character": ["島村卯月"], "voice": ["大橋彩香"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16632.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16683.html",
+    "cd_title": "小日向美穂",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 011",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 011\n小日向美穂",
+    "artist": { "character": ["小日向美穂"], "voice": ["津田美波"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16683.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16683.html",
+    "cd_title": "多田李衣菜",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 012",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 012\n多田李衣菜",
+    "artist": { "character": ["多田李衣菜"], "voice": ["青木瑠璃子"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16684.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16683.html",
+    "cd_title": "十時愛梨",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 013",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 013\n十時愛梨",
+    "artist": { "character": ["十時愛梨"], "voice": ["原田ひとみ"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16685.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16683.html",
+    "cd_title": "川島瑞樹",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 014",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 014\n川島瑞樹",
+    "artist": { "character": ["川島瑞樹"], "voice": ["東山奈央"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16686.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16683.html",
+    "cd_title": "本田未央",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 015",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 015\n本田未央",
+    "artist": { "character": ["本田未央"], "voice": ["原紗友里"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16687.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16734.html",
+    "cd_title": "日野茜",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 016",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 016\n日野茜",
+    "artist": { "character": ["日野茜"], "voice": ["赤﨑千夏"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16734.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16734.html",
+    "cd_title": "赤城みりあ",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 017",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 017\n赤城みりあ",
+    "artist": { "character": ["赤城みりあ"], "voice": ["黒沢ともよ"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16735.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16734.html",
+    "cd_title": "安部菜々",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 018",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 018\n安部菜々",
+    "artist": { "character": ["安部菜々"], "voice": ["三宅麻理恵"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16736.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16734.html",
+    "cd_title": "新田美波",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 019",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 019\n新田美波",
+    "artist": { "character": ["新田美波"], "voice": ["洲崎綾"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16737.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16734.html",
+    "cd_title": "輿水幸子",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 020",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 020\n輿水幸子",
+    "artist": { "character": ["輿水幸子"], "voice": ["竹達彩奈"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16738.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16778.html",
+    "cd_title": "佐久間まゆ",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 021",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 021\n佐久間まゆ",
+    "artist": { "character": ["佐久間まゆ"], "voice": ["牧野由依"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16778.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16778.html",
+    "cd_title": "白坂小梅",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 022",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 022\n白坂小梅",
+    "artist": { "character": ["白坂小梅"], "voice": ["桜咲千依"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16779.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16778.html",
+    "cd_title": "緒方智絵里",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 023",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 023\n緒方智絵里",
+    "artist": { "character": ["緒方智絵里"], "voice": ["大空直美"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16780.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16778.html",
+    "cd_title": "アナスタシア",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 024",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 024\nアナスタシア",
+    "artist": { "character": ["アナスタシア"], "voice": ["上坂すみれ"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16781.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16778.html",
+    "cd_title": "高森藍子",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 025",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 025\n高森藍子",
+    "artist": { "character": ["高森藍子"], "voice": ["金子有希"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16782.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16877.html",
+    "cd_title": "星輝子",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 026",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 026\n星輝子",
+    "artist": { "character": ["星輝子"], "voice": ["松田颯水"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16877.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16877.html",
+    "cd_title": "神谷奈緒",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 027",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 027\n神谷奈緒",
+    "artist": { "character": ["神谷奈緒"], "voice": ["松井恵理子"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16878.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16877.html",
+    "cd_title": "北条加蓮",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 028",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 028\n北条加蓮",
+    "artist": { "character": ["北条加蓮"], "voice": ["渕上 舞"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16879.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16877.html",
+    "cd_title": "小早川紗枝",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 029",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 029\n小早川紗枝",
+    "artist": { "character": ["：小早川紗枝"], "voice": ["立花理香"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16880.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16877.html",
+    "cd_title": "堀裕子",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 030",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 030\n堀裕子",
+    "artist": { "character": ["堀裕子"], "voice": ["鈴木絵理"] },
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16881.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17001.html",
+    "cd_title": "鷺沢文香",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 031",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 031\n鷺沢文香",
+    "artist": { "character": ["鷺沢文香"], "voice": ["：M･A･O"] },
+    "url": "https://columbia.jp/idolmaster/img/COCC-17001.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17001.html",
+    "cd_title": "姫川友紀",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 032",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 032\n姫川友紀",
+    "artist": { "character": ["姫川友紀"], "voice": ["：杜野まこ"] },
+    "url": "https://columbia.jp/idolmaster/img/COCC-17002.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17001.html",
+    "cd_title": "宮本フレデリカ",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 033",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 033\n宮本フレデリカ",
+    "artist": { "character": ["宮本フレデリカ"], "voice": ["：髙野麻美"] },
+    "url": "https://columbia.jp/idolmaster/img/COCC-17003.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17001.html",
+    "cd_title": "速水奏",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 034",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 034\n速水奏",
+    "artist": { "character": ["速水奏"], "voice": ["：飯田友子"] },
+    "url": "https://columbia.jp/idolmaster/img/COCC-17004.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17001.html",
+    "cd_title": "市原仁奈",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 035",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 035\n市原仁奈",
+    "artist": { "character": ["市原仁奈"], "voice": ["：久野美咲"] },
+    "url": "https://columbia.jp/idolmaster/img/COCC-17005.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17091.html",
+    "cd_title": "橘ありす",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 036",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 036\n橘ありす",
+    "artist": { "character": ["橘ありす"], "voice": ["：佐藤亜美菜"] },
+    "url": "https://columbia.jp/idolmaster/img/COCC-17091.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17091.html",
+    "cd_title": "片桐早苗",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 037",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 037\n片桐早苗",
+    "artist": { "character": ["片桐早苗"], "voice": ["：和氣あず未"] },
+    "url": "https://columbia.jp/idolmaster/img/COCC-17092.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17091.html",
+    "cd_title": "一ノ瀬志希",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 038",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 038\n一ノ瀬志希",
+    "artist": { "character": ["一ノ瀬志希"], "voice": ["：藍原ことみ"] },
+    "url": "https://columbia.jp/idolmaster/img/COCC-17093.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17091.html",
+    "cd_title": "塩見周子",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 039",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 039\n塩見周子",
+    "artist": { "character": ["塩見周子"], "voice": ["：ルゥ ティン"] },
+    "url": "https://columbia.jp/idolmaster/img/COCC-17094.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17091.html",
+    "cd_title": "櫻井桃華",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 040",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 040\n櫻井桃華",
+    "artist": { "character": ["櫻井桃華"], "voice": ["：照井春佳"] },
+    "url": "https://columbia.jp/idolmaster/img/COCC-17095.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17131.html",
+    "cd_title": "大槻唯",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 041",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 041\n大槻唯",
+    "artist": { "character": ["大槻唯"], "voice": ["：山下七海"] },
+    "url": "https://columbia.jp/idolmaster/img/COCC-17131.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17131.html",
+    "cd_title": "中野有香",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 042",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 042\n中野有香",
+    "artist": { "character": ["中野有香"], "voice": ["：下地紫野"] },
+    "url": "https://columbia.jp/idolmaster/img/COCC-17132.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17131.html",
+    "cd_title": "二宮飛鳥",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 043",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 043\n二宮飛鳥",
+    "artist": { "character": ["二宮飛鳥"], "voice": ["：青木志貴"] },
+    "url": "https://columbia.jp/idolmaster/img/COCC-17133.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17131.html",
+    "cd_title": "相葉夕美",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 044",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 044\n相葉夕美",
+    "artist": { "character": ["相葉夕美"], "voice": ["：木村珠莉"] },
+    "url": "https://columbia.jp/idolmaster/img/COCC-17134.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17131.html",
+    "cd_title": "五十嵐響子",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 045",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 045\n五十嵐響子",
+    "artist": { "character": ["五十嵐響子"], "voice": ["：種﨑敦美"] },
+    "url": "https://columbia.jp/idolmaster/img/COCC-17135.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17286.html",
+    "cd_title": "乙倉悠貴",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 046",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 046\n乙倉悠貴",
+    "artist": { "character": ["乙倉悠貴"], "voice": ["：中島由貴"] },
+    "url": "https://columbia.jp/idolmaster/img/COCC-17286.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17286.html",
+    "cd_title": "松永涼",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 047",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 047\n松永涼",
+    "artist": { "character": ["松永涼"], "voice": ["千菅春香"] },
+    "url": "https://columbia.jp/idolmaster/img/COCC-17287.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17286.html",
+    "cd_title": "依田芳乃",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 048",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 048\n依田芳乃",
+    "artist": { "character": ["依田芳乃"], "voice": ["高田憂希"] },
+    "url": "https://columbia.jp/idolmaster/img/COCC-17288.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17437.html",
+    "cd_title": "関裕美",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 049",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 049\n関裕美",
+    "artist": { "character": ["関裕美"], "voice": ["会沢紗弥)"] },
+    "url": "https://columbia.jp/idolmaster/img/COCC-17437.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17437.html",
+    "cd_title": "三船美優",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 050",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 050\n三船美優",
+    "artist": { "character": ["三船美優"], "voice": ["原田彩楓)"] },
+    "url": "https://columbia.jp/idolmaster/img/COCC-17438.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17437.html",
+    "cd_title": "村上巴",
+    "series": "THE IDOLM@STER CINDERELLA MASTER 051",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER 051\n村上巴",
+    "artist": { "character": ["村上巴"], "voice": ["花井美春)"] },
+    "url": "https://columbia.jp/idolmaster/img/COCC-17439.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16767.html",
+    "cd_title": "輝く世界の魔法",
+    "series": "輝く世界の魔法",
+    "full_title": "輝く世界の魔法",
+    "artist": {
+      "character": ["神崎蘭子", "アナスタシア", "高垣楓", "輿水幸子", "渋谷凛", "島村卯月", "本田未央"],
+      "voice": ["内田真礼", "上坂すみれ", "早見沙織", " 竹達彩奈", " 福原綾香", " 大橋彩香", " 原紗友里"]
     },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16575.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 002\n双葉杏",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16576.jpg"
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16767.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16908.html",
+    "cd_title": "We’re the friends!",
+    "series": "We’re the friends!",
+    "full_title": "We’re the friends!",
+    "artist": {
+      "character": ["渋谷凛", "安部菜々", "緒方智絵里", "島村卯月", "本田未央", "鷺沢文香", "高垣楓", "姫川友紀", "高森藍子"],
+      "voice": [
+        "：福原綾香)",
+        "：三宅麻理恵)",
+        "：大空直美)",
+        "：大橋彩香)",
+        "：原紗友里)",
+        "：M･A･O)",
+        "：早見沙織)",
+        "：杜野まこ)",
+        "：金子有希)"
+      ]
     },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16575.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 003\n三村かな子",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16577.jpg"
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16908.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17056.html",
+    "cd_title": "Absolute NIne",
+    "series": "Absolute NIne",
+    "full_title": "Absolute NIne",
+    "artist": {
+      "character": ["塩見周子", "高垣楓", "渋谷凛", "前川みく", "一ノ瀬志希", "島村卯月", "相葉夕美", "城ヶ崎美嘉", "向井拓海"],
+      "voice": [
+        "：ルゥティン",
+        "：早見沙織",
+        "：福原綾香",
+        "：高森奈津美",
+        "：藍原ことみ",
+        "：大橋彩香",
+        "：木村珠莉",
+        "：佳村はるか",
+        "：原優子"
+      ]
     },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16575.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 004\n高垣楓",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16578.jpg"
+    "url": "https://columbia.jp/idolmaster/img/COCC-17056.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCX-38251.html",
+    "cd_title": "Cool jewelries! 001",
+    "series": "THE IDOLM@STER CINDERELLA MASTER",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER\nCool jewelries! 001",
+    "artist": {
+      "character": ["渋谷凛", "高垣楓", "神崎蘭子", "多田李衣菜", "新田美波"],
+      "voice": ["福原綾香)", "早見沙織)", "内田真礼)", "青木瑠璃子", "洲崎綾)"]
     },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16575.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 005\n城ヶ崎莉嘉",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16579.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16628.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 006\n神崎蘭子",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16628.jpg"
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCX-38251.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCX-38252.html",
+    "cd_title": "Passion jewelries! 001",
+    "series": "THE IDOLM@STER CINDERELLA MASTER",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER\nPassion jewelries! 001",
+    "artist": {
+      "character": ["城ヶ崎莉嘉", "諸星きらり", "城ヶ崎美嘉", "本田未央", "赤城みりあ"],
+      "voice": ["：山本希望)", "：松嵜麗)", "：佳村はるか)", "：原紗友里)", "：黒沢ともよ"]
     },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16628.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 007\n前川みく",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16629.jpg"
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCX-38252.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/cinderella/COCX-38253.html",
+    "cd_title": "Cute jewelries! 001",
+    "series": "THE IDOLM@STER CINDERELLA MASTER",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER\nCute jewelries! 001",
+    "artist": {
+      "character": ["双葉杏", "前川みく", "島村卯月", "小日向美穂", "安部菜々"],
+      "voice": ["五十嵐裕美)", "高森奈津美)", "大橋彩香)", "津田美波)", "三宅麻理恵)"]
     },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16628.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 008\n諸星きらり",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16630.jpg"
+    "url": "https://columbia.jp/idolmaster/cinderella/img/COCX-38253.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCX-38967.html",
+    "cd_title": "Cool jewelries! 002",
+    "series": "THE IDOLM@STER CINDERELLA MASTER",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER\nCool jewelries! 002",
+    "artist": {
+      "character": ["川島瑞樹", "白坂小梅", "アナスタシア", "神谷奈緒", "北条加蓮"],
+      "voice": ["東山奈央)", "桜咲千依)", "上坂すみれ)", "松井恵理子)", "渕上舞)"]
     },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16628.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 009\n城ヶ崎美嘉",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16631.jpg"
+    "url": "https://columbia.jp/idolmaster/img/jewelries002/COCX-38967.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCX-38968.html",
+    "cd_title": "Passion jewelries! 002",
+    "series": "THE IDOLM@STER CINDERELLA MASTER",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER\nPassion jewelries! 002",
+    "artist": {
+      "character": ["十時愛梨", "日野茜", "高森藍子", "星輝子", "堀裕子"],
+      "voice": ["原田ひとみ)", "赤﨑千夏)", "金子有希)", "松田颯水)", "鈴木絵理)"]
     },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16628.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 010\n島村卯月",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16632.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16683.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 011\n小日向美穂",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16683.jpg"
+    "url": "https://columbia.jp/idolmaster/img/jewelries002/COCX-38968.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCX-38969.html",
+    "cd_title": "Cute jewelries! 002",
+    "series": "THE IDOLM@STER CINDERELLA MASTER",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER\nCute jewelries! 002",
+    "artist": {
+      "character": ["三村かな子", "輿水幸子", "佐久間まゆ", "緒方智絵里", "小早川紗枝"],
+      "voice": ["大坪由佳)", "竹達彩奈", "牧野由依)", "大空直美)", "立花理香)"]
     },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16683.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 012\n多田李衣菜",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16684.jpg"
+    "url": "https://columbia.jp/idolmaster/img/jewelries002/COCX-38969.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCX-39651.html",
+    "cd_title": "Cute jewelries! 003",
+    "series": "THE IDOLM@STER CINDERELLA MASTER",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER\nCute jewelries! 003",
+    "artist": {
+      "character": ["宮本フレデリカ", "一ノ瀬志希", "櫻井桃華", "中野有香", "五十嵐響子"],
+      "voice": ["：高野麻美", "：藍原ことみ", "：照井春佳", "：下地紫野", "：種﨑敦美"]
     },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16683.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 013\n十時愛梨",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16685.jpg"
+    "url": "https://columbia.jp/idolmaster/img/COCX-39651.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCX-39652.html",
+    "cd_title": "Passion jewelries! 003",
+    "series": "THE IDOLM@STER CINDERELLA MASTER",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER\nPassion jewelries! 003",
+    "artist": {
+      "character": ["姫川友紀", "市原仁奈", "片桐早苗", "大槻唯", "相葉夕美"],
+      "voice": ["杜野まこ", "久野美咲", "和氣あず未", "山下七海", "木村珠莉"]
     },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16683.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 014\n川島瑞樹",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16686.jpg"
+    "url": "https://columbia.jp/idolmaster/img/COCX-39652.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCX-39653.html",
+    "cd_title": "Cool jewelries! 003",
+    "series": "THE IDOLM@STER CINDERELLA MASTER",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER\nCool jewelries! 003",
+    "artist": {
+      "character": ["鷺沢文香", "速水奏", "橘ありす", "塩見周子", "二宮飛鳥"],
+      "voice": ["Ｍ･Ａ･Ｏ", "飯田友子", "佐藤亜美菜", "ルゥ ティン", "青木志貴"]
     },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16683.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 015\n本田未央",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16687.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16734.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 016\n日野茜",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16734.jpg"
+    "url": "https://columbia.jp/idolmaster/img/COCX-39653.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17415.html",
+    "cd_title": "こいかぜ －彩－",
+    "series": "THE IDOLM@STER CINDERELLA MASTER",
+    "full_title": "THE IDOLM@STER CINDERELLA MASTER\nこいかぜ －彩－",
+    "artist": { "character": ["高垣楓"], "voice": ["早見沙織"] },
+    "url": "https://columbia.jp/idolmaster/img/COCC-17415.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17061.html",
+    "cd_title": "Shine!!",
+    "series": "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 2nd Season 01",
+    "full_title": "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 2nd Season 01\nShine!!",
+    "artist": {
+      "character": [
+        "島村卯月",
+        "渋谷凛",
+        "本田未央",
+        "赤城みりあ",
+        "アナスタシア",
+        "緒方智絵里",
+        "神崎蘭子",
+        "城ヶ崎莉嘉",
+        "多田李衣菜",
+        "新田美波",
+        "双葉杏",
+        "前川みく",
+        "三村かな子",
+        "諸星きらり"
+      ],
+      "voice": [
+        "：大橋彩香",
+        "：福原綾香",
+        "：原紗友里",
+        "：黒沢ともよ",
+        "：上坂すみれ",
+        "：大空直美",
+        "：内田真礼",
+        "：山本希望",
+        "：青木瑠璃子",
+        "：洲崎綾",
+        "：五十嵐裕美",
+        "：高森奈津美",
+        "：大坪由佳",
+        "：松嵜麗"
+      ]
     },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16734.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 017\n赤城みりあ",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16735.jpg"
+    "url": "https://columbia.jp/idolmaster/img/COCC-17061.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17141.html",
+    "cd_title": "Snow Wings",
+    "series": "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 01",
+    "full_title": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 01\nSnow Wings",
+    "artist": {
+      "character": ["島村卯月", "渋谷凛", "本田未央", "大槻唯", "上条春菜"],
+      "voice": ["大橋彩香", "福原綾香", "原紗友里", "山下七海", "長島光那"]
     },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16734.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 018\n安部菜々",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16736.jpg"
+    "url": "https://columbia.jp/idolmaster/img/COCC-17141.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17148.html",
+    "cd_title": "BEYOND THE STARLIGHT",
+    "series": "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 08",
+    "full_title": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 08\nBEYOND THE STARLIGHT",
+    "artist": {
+      "character": ["城ヶ崎莉嘉", "緒方智絵里", "北条加蓮", "川島瑞樹", "大槻唯", "双葉杏"],
+      "voice": ["山本希望)", "大空直美)", "渕上舞)", "東山奈央)", "山下七海)", "五十嵐裕美)"]
     },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16734.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 019\n新田美波",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16737.jpg"
+    "url": "https://columbia.jp/idolmaster/img/COCC-17148.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17149.html",
+    "cd_title": "ラブレター",
+    "series": "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 09",
+    "full_title": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 09\nラブレター",
+    "artist": {
+      "character": ["島村卯月", "小日向美穂", "五十嵐響子", "安部菜々", "小早川紗枝"],
+      "voice": ["大橋彩香)", "津田美波)", "種崎敦美)", "三宅麻理恵)", "立花理香)"]
     },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16734.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 020\n輿水幸子",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16738.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16778.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 021\n佐久間まゆ",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16778.jpg"
+    "url": "https://columbia.jp/idolmaster/img/COCC-17149.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17156.html",
+    "cd_title": "∀NSWER",
+    "series": "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 16",
+    "full_title": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 16\n∀NSWER",
+    "artist": {
+      "character": ["早坂美玲", "森久保乃々", "星輝子", "川島瑞樹", "新田美波"],
+      "voice": ["：朝井彩加)", "：高橋花林)", "：松田颯水)", "：東山奈央)", "：洲崎綾)"]
     },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16778.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 022\n白坂小梅",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16779.jpg"
+    "url": "https://columbia.jp/idolmaster/img/COCC-17156.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17157.html",
+    "cd_title": "Nothing but You",
+    "series": "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 17",
+    "full_title": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 17\nNothing but You",
+    "artist": {
+      "character": ["アナスタシア", "神谷奈緒", "中野有香", "前川みく", "星輝子", "日野茜", "一ノ瀬志希"],
+      "voice": ["：上坂すみれ)", "：松井恵理子", "：下地紫野", "：高森奈津美", "：松田颯水", "：赤﨑千夏", "：藍原ことみ"]
     },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16778.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 023\n緒方智絵里",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16780.jpg"
+    "url": "https://columbia.jp/idolmaster/img/COCC-17157.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17158.html",
+    "cd_title": "モーレツ★世直しギルティ！",
+    "series": "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 18",
+    "full_title": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 18\nモーレツ★世直しギルティ！",
+    "artist": {
+      "character": ["堀裕子", "片桐早苗", "及川雫", "速水奏"],
+      "voice": ["：鈴木絵理)", "：和氣あず未", "：のぐちゆり", "飯田友子"]
     },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16778.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 024\nアナスタシア",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16781.jpg"
+    "url": "https://columbia.jp/idolmaster/img/COCC-17158.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17512.html",
+    "cd_title": "双翼の独奏歌",
+    "series": "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 22",
+    "full_title": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 22\n双翼の独奏歌",
+    "artist": {
+      "character": ["神崎蘭子", "二宮飛鳥", "輿水幸子", "及川雫", "棟方愛海"],
+      "voice": ["：内田真礼)", "：青木志貴)", "：竹達彩奈)", "：のぐちゆり)", "：藤本彩花)"]
     },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16778.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 025\n高森藍子",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16782.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16877.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 026\n星輝子",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16877.jpg"
+    "url": "https://columbia.jp/idolmaster/img/COCC-17512.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17513.html",
+    "cd_title": "Twin☆くるっ★テール",
+    "series": "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 23",
+    "full_title": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 23\nTwin☆くるっ★テール",
+    "artist": {
+      "character": ["城ヶ崎美嘉", "城ヶ崎莉嘉", "相葉夕美", "喜多見柚", "村上巴"],
+      "voice": ["：佳村はるか)", "：山本希望)", "：木村珠莉)", "：武田羅梨沙多胡)", "：花井美春)"]
     },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16877.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 027\n神谷奈緒",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16878.jpg"
+    "url": "https://columbia.jp/idolmaster/img/COCC-17513.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17514.html",
+    "cd_title": "Trinity Field",
+    "series": "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 24",
+    "full_title": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 24\nTrinity Field",
+    "artist": { "character": ["渋谷凛", "北条加蓮", "神谷奈緒"], "voice": ["：福原綾香", "：渕上舞", "：松井恵理子"] },
+    "url": "https://columbia.jp/idolmaster/img/COCC-17514.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17516.html",
+    "cd_title": "美に入り彩を穿つ",
+    "series": "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 26",
+    "full_title": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 26\n美に入り彩を穿つ",
+    "artist": {
+      "character": ["小早川紗枝", "塩見周子", "神崎蘭子", "関裕美", "森久保乃々"],
+      "voice": ["立花理香)", "ルゥ ティン)", "内田真礼)", "：会沢紗弥)", "：高橋花林)"]
     },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16877.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 028\n北条加蓮",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16879.jpg"
+    "url": "https://columbia.jp/idolmaster/img/COCC-17516.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17311.html",
+    "cd_title": "キラッ！満開スマイル",
+    "series": "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!",
+    "full_title": "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!\nキラッ！満開スマイル",
+    "artist": {
+      "character": ["島村卯月", "小日向美穂", "佐久間まゆ", "櫻井桃華", "双葉杏"],
+      "voice": ["大橋彩香)", "津田美波)", "牧野由依)", "照井春佳)", "五十嵐裕美)"]
     },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16877.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 029\n小早川紗枝",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16880.jpg"
+    "url": "https://columbia.jp/idolmaster/img/COCC-17311.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17313.html",
+    "cd_title": "SUN♡FLOWER",
+    "series": "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!",
+    "full_title": "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!\nSUN♡FLOWER",
+    "artist": {
+      "character": ["本田未央", "片桐早苗", "佐藤心", "城ヶ崎美嘉", "諸星きらり"],
+      "voice": ["原紗友里)", "和氣あず未)", "花守ゆみり)", "佳村はるか)", "松嵜麗)"]
     },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16877.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 030\n堀裕子",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16881.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17001.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 031\n鷺沢文香",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17001.jpg"
+    "url": "https://columbia.jp/idolmaster/img/COCC-17313.jpg"
+  },
+  {
+    "origin_url": "https://columbia.jp/idolmaster/COCC-17332.html",
+    "cd_title": "AUTUMN!",
+    "series": "THE IDOLM@STER CINDERELLA GIRLS MASTER SEASONS",
+    "full_title": "THE IDOLM@STER CINDERELLA GIRLS\nMASTER SEASONS\nAUTUMN!",
+    "artist": {
+      "character": [
+        "相葉夕美",
+        "多田李衣菜",
+        "中野有香",
+        "安部菜々",
+        "乙倉悠貴",
+        "前川みく",
+        "渋谷凛",
+        "森久保乃々",
+        "大和亜季",
+        "木村夏樹",
+        "浜口あやめ",
+        "日野茜"
+      ],
+      "voice": [
+        "木村珠莉",
+        "青木瑠璃子",
+        "下地紫野",
+        "三宅麻理恵",
+        "中島由貴",
+        "高森奈津美",
+        "福原綾香",
+        "高橋花林",
+        "村中知",
+        "安野希世乃",
+        "田澤茉純",
+        "赤﨑千夏"
+      ]
     },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17001.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 032\n姫川友紀",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17002.jpg"
-    },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17001.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 033\n宮本フレデリカ",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17003.jpg"
-    },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17001.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 034\n速水奏",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17004.jpg"
-    },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17001.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 035\n市原仁奈",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17005.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17091.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 036\n橘ありす",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17091.jpg"
-    },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17091.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 037\n片桐早苗",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17092.jpg"
-    },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17091.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 038\n一ノ瀬志希",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17093.jpg"
-    },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17091.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 039\n塩見周子",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17094.jpg"
-    },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17091.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 040\n櫻井桃華",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17095.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17131.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 041\n大槻唯",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17131.jpg"
-    },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17131.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 042\n中野有香",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17132.jpg"
-    },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17131.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 043\n二宮飛鳥",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17133.jpg"
-    },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17131.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 044\n相葉夕美",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17134.jpg"
-    },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17131.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 045\n五十嵐響子",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17135.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17286.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 046\n乙倉悠貴",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17286.jpg"
-    },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17286.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 047\n松永涼",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17287.jpg"
-    },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17286.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 048\n依田芳乃",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17288.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17437.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 049\n関裕美",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17437.jpg"
-    },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17437.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 050\n三船美優",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17438.jpg"
-    },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17437.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER 051\n村上巴",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17439.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16718.html",
-      "name": "お願い！シンデレラ",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16718.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16767.html",
-      "name": "輝く世界の魔法",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16767.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCC-16908.html",
-      "name": "We’re the friends!",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCC-16908.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17056.html",
-      "name": "Absolute NIne",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17056.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17245.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER\nTake me☆Take you",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17245.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17282.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER\nEVERMORE",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17282.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17283.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER\nTreasure☆",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17283.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17414.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER\n恋が咲く季節",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17414.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17458.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER\nイリュージョニスタ！",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17458.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17541.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER\nTrust me",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17541.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCX-38251.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER\nCool jewelries! 001",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCX-38251.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCX-38252.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER\nPassion jewelries! 001",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCX-38252.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella/COCX-38253.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER\nCute jewelries! 001",
-      "url": "https://columbia.jp/idolmaster/cinderella/img/COCX-38253.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCX-38967.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER\nCool jewelries! 002",
-      "url": "https://columbia.jp/idolmaster/img/jewelries002/COCX-38967.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCX-38968.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER\nPassion jewelries! 002",
-      "url": "https://columbia.jp/idolmaster/img/jewelries002/COCX-38968.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCX-38969.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER\nCute jewelries! 002",
-      "url": "https://columbia.jp/idolmaster/img/jewelries002/COCX-38969.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCX-39651.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER\nCute jewelries! 003",
-      "url": "https://columbia.jp/idolmaster/img/COCX-39651.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCX-39652.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER\nPassion jewelries! 003",
-      "url": "https://columbia.jp/idolmaster/img/COCX-39652.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCX-39653.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER\nCool jewelries! 003",
-      "url": "https://columbia.jp/idolmaster/img/COCX-39653.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17415.html",
-      "name": "THE IDOLM@STER CINDERELLA MASTER\nこいかぜ －彩－",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17415.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCX-39035.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nANIMATION PROJECT 00\nST@RTER BEST",
-      "url": "https://columbia.jp/idolmaster/img/COCX-39035.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-16994.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nANIMATION PROJECT 01\nStar!!",
-      "url": "https://columbia.jp/idolmaster/img/COCC-16994.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella_ap.html",
-      "name": "new generations[島村卯月×渋谷凛×本田未央]",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17027.jpg"
-    },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella_ap.html",
-      "name": "＊(Asterisk) [前川みく×多田李衣菜]",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17026.jpg"
-    },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella_ap.html",
-      "name": "凸レーション[城ヶ崎莉嘉×諸星きらり×赤城みりあ]",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17025.jpg"
-    },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella_ap.html",
-      "name": "CANDY ISLAND [双葉杏×三村かな子×緒方智絵里]",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17024.jpg"
-    },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella_ap.html",
-      "name": "Rosenburg Engel[神崎蘭子]",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17023.jpg"
-    },
-    {
-      "origin_url": "https://columbia.jp/idolmaster/cinderella_ap.html",
-      "name": "LOVE LAIKA[新田美波×アナスタシア]",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17022.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17028.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nANIMATION PROJECT 08\nGOIN’!!!",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17028.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COZX-1151.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nANIMATION PROJECT\nORIGINAL SOUNDTRACK",
-      "url": "https://columbia.jp/idolmaster/img/COZX-1151.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17061.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 2nd Season 01\nShine!!",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17061.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17067.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nANIMATION PROJECT 2nd Season 07\nM@GIC☆",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17067.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17141.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 01\nSnow Wings",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17141.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17142.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 02\nTulip",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17142.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17143.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 03\nハイファイ☆デイズ",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17143.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17144.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 04\n生存本能ヴァルキュリア",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17144.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17145.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 05\n純情Midnight伝説",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17145.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17146.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 06\nLove∞Destiny",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17146.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17147.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 07\nサマカニ!!",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17147.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17148.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 08\nBEYOND THE STARLIGHT",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17148.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17149.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 09\nラブレター",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17149.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17150.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 10\nJet to the Future",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17150.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17151.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 11\nあんきら！？狂騒曲",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17151.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17152.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 12\n命燃やして恋せよ乙女",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17152.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17153.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 13\nSweet Witches' Night ～6人目はだぁれ～",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17153.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17154.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 14\n情熱ファンファンファーレ",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17154.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17155.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 15\n桜の頃",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17155.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17156.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 16\n∀NSWER",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17156.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17157.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 17\nNothing but You",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17157.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17158.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 18\nモーレツ★世直しギルティ！",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17158.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17159.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 19\nWith Love",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17159.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17160.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 20\nリトルリドル",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17160.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17511.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 21\nKawaii make MY day!",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17511.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17512.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 22\n双翼の独奏歌",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17512.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17513.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 23\nTwin☆くるっ★テール",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17513.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17514.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 24\nTrinity Field",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17514.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17515.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 25\nHappy New Yeah!",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17515.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17516.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 26\n美に入り彩を穿つ",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17516.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17517.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nSTARLIGHT MASTER 27\nVast world",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17517.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17311.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!\nキラッ！満開スマイル",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17311.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17312.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!\nエチュードは1曲だけ",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17312.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17313.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!\nSUN♡FLOWER",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17313.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17391.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!\nBlooming Days",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17391.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17392.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!\n秋めいて Ding Dong Dang!",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17392.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17393.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!\nSnow＊Love",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17393.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17501.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nLITTLE STARS!\nいとしーさー♥",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17501.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17502.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nLITTLE STARS!\nなつっこ音頭",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17502.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17503.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nLITTLE STARS!\nさよならアロハ",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17503.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17331.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nMASTER SEASONS\nSUMMER!",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17331.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17332.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nMASTER SEASONS\nAUTUMN!",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17332.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17333.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS MASTER SEASONS\nWINTER!",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17333.jpg"
-    }
-  ],
-  [
-    {
-      "origin_url": "https://columbia.jp/idolmaster/COCC-17334.html",
-      "name": "THE IDOLM@STER CINDERELLA GIRLS\nMASTER SEASONS\nSPRING!",
-      "url": "https://columbia.jp/idolmaster/img/COCC-17334.jpg"
-    }
-  ]
+    "url": "https://columbia.jp/idolmaster/img/COCC-17332.jpg"
+  }
 ]

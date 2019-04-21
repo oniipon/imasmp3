@@ -1,7 +1,7 @@
 import * as fs from 'fs';
 import Axios from 'axios';
 import {Album} from './Album';
-const json: Album[][] = require('../hoge.json');
+const json: Album[][] = require('../Album.json');
 if (!fs.existsSync('./img')) {
   fs.mkdirSync('./img');
 }
@@ -10,6 +10,6 @@ json.forEach(d => {
   d.forEach(async j => {
     const res = await Axios.get(j.url, { responseType: 'arraybuffer' });
     const bf = Buffer.from(res.data);
-    fs.writeFileSync(`./img/${j.name}.jpg`, Buffer.from(res.data), 'binary');
+    fs.writeFileSync(`./img/${j.cd_title}.jpg`, Buffer.from(res.data), 'binary');
   });
 });
